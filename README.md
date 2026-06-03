@@ -26,3 +26,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Allow users to return to an unfinished game
 * Having gameplay between 2 live users
 
+# battleship-frontend
